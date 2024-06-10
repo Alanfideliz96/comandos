@@ -1,2 +1,2 @@
-# Comandos que poderam ser uteis em algum momento:
+# Comandos que poderam ser úteis em algum momento:
 
